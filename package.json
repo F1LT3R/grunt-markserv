@@ -1,0 +1,31 @@
+{
+  "name": "grunt-markserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "markserv-cli": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/f1lt3r/grunt-markserv.git"
+  },
+  "keywords": [
+    "grunt",
+    "markserv",
+    "markdown",
+    "http",
+    "server"
+  ],
+  "author": "f1lt3r",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/f1lt3r/grunt-markserv/issues"
+  },
+  "homepage": "https://github.com/f1lt3r/grunt-markserv#readme"
+}
